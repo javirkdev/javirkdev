@@ -11,11 +11,11 @@ Un proyecto de comercio electrónico desarrollado con **Angular** en el frontend
 
 **Colaboradores:**
 
----
-
 **manugym**
 **albacabsan**
 **Ancabvil**
+
+---
 
 ### 2. **Pokedex JavaScript Vanilla**
 Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **manugym**.
