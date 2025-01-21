@@ -10,6 +10,9 @@ Un apasionado desarrollador en formación, actualmente cursando el segundo año 
 Un proyecto de comercio electrónico desarrollado con **Angular** en el frontend y **C#** con **ASP.NET** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos con tarjetas de crédito / débito y con Ethereum (criptomoneda).
 
 **Colaboradores:**
+
+---
+
 **manugym**
 **albacabsan**
 **Ancabvil**
