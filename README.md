@@ -6,14 +6,11 @@ Un apasionado desarrollador en formación, actualmente cursando el segundo año 
 
 ## 🏆 Proyectos Destacados
 
-### 1. **PresentacionViewnext**
-Este proyecto es una presentación interactiva que desarrollé para VIEWNEXT, donde se destacan las principales áreas de trabajo y tecnologías que manejamos en la empresa.
+### 1. **E-commerce Angular y C# ASP.NET**
+Un proyecto de comercio electrónico desarrollado con **Angular** en el frontend y **C#** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos.
 
 ### 2. **Pokedex JavaScript Vanilla**
 Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **manugym**.
-
-### 3. **E-commerce Angular y C#**
-Un proyecto de comercio electrónico desarrollado con **Angular** en el frontend y **C#** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos.
 
 ---
 
