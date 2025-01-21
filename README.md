@@ -7,7 +7,12 @@ Un apasionado desarrollador en formación, actualmente cursando el segundo año 
 ## 🏆 Proyectos Destacados
 
 ### 1. **E-commerce Angular y C# ASP.NET**
-Un proyecto de comercio electrónico desarrollado con **Angular** en el frontend y **C#** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos.
+Un proyecto de comercio electrónico desarrollado con **Angular** en el frontend y **C#** con **ASP.NET** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos con tarjetas de crédito / débito y con Ethereum (criptomoneda).
+
+**Colaboradores:**
+**manugym**
+**albacabsan**
+**Ancabvil**
 
 ### 2. **Pokedex JavaScript Vanilla**
 Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **manugym**.
