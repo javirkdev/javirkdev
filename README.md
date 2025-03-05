@@ -27,7 +27,3 @@ Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar inf
 - **Educación**: Estudiante en **CPIFP Alan Turing**.
 - **Ubicación**: Málaga, España.
 - **LinkedIn**: [Javier Rico Navarro](https://www.linkedin.com/in/javier-rico-navarro-0592202a2/)
-
----
-
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y no dudes en contactarme para cualquier colaboración o sugerencia. 😊
