@@ -7,7 +7,7 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 ## 🏆 Proyectos Destacados
 
 ### 1. **E-commerce Angular y C# ASP.NET**
-Un proyecto de comercio electrónico desarrollado con **Angular** en el frontend y **C#** con **ASP.NET** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos con tarjetas de crédito / débito y con Ethereum (criptomoneda).
+Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#** con **ASP.NET** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos con tarjetas de crédito / débito y con Ethereum (criptomoneda).
 
 **Colaboradores:**
 
