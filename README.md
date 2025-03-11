@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Javier Rico Navarro
+# ¡Bienvenido a mi repositorio de GitHub! 👋 Mi nombre es Javier Rico Navarro
 
 Desarrollador en formación, actualmente cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y realizando prácticas en **VIEWNEXT**. Bienvenido a mi repositorio de GitHub. Aquí encontrarás algunos de mis proyectos destacados:
 
