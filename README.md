@@ -6,7 +6,7 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 
 ###
 
-<img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM4bHF1c292eGJiMTVscXlhdzFxMzhjeTNoMmFhNXo0eTB6Z2p3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<img align="right" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM4bHF1c292eGJiMTVscXlhdzFxMzhjeTNoMmFhNXo0eTB6Z2p3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 
 ###
 
@@ -37,24 +37,9 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  
-
-  
-  
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/javier-rico-navarro-0592202a2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:javier.riconav@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+---
 
 ## 🏆 Proyectos Destacados
 
@@ -74,8 +59,13 @@ Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar inf
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 
 
-- **Educación**: Estudiante en **CPIFP Alan Turing**.
-- **Ubicación**: Málaga, España.
-- **LinkedIn**: [Javier Rico Navarro](https://www.linkedin.com/in/javier-rico-navarro-0592202a2/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/javier-rico-navarro-0592202a2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:javier.riconav@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
