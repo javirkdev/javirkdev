@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# ¡Hola! 👋 Soy Javier Rico Navarro
+
+Desarrollador en formación, actualmente cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y realizando prácticas en **VIEWNEXT**. Bienvenido a mi repositorio de GitHub. Aquí encontrarás algunos de mis proyectos destacados:
+
+---
 
 ###
 
@@ -47,15 +51,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-# ¡Hola! 👋 Soy Javier Rico Navarro
-
-Desarrollador en formación, actualmente cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y realizando prácticas en **VIEWNEXT**. Bienvenido a mi repositorio de GitHub. Aquí encontrarás algunos de mis proyectos destacados:
-
----
 
 ## 🏆 Proyectos Destacados
 
