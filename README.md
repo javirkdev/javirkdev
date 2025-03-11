@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi repositorio de GitHub! 👋 Mi nombre es Javier
 
-Desarrollador en formación, actualmente cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y realizando prácticas en **VIEWNEXT**. Aquí encontrarás algunos de mis proyectos destacados:
+Desarrollador en formación, actualmente cursando el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y realizando prácticas en **VIEWNEXT**.
 
 ---
 
