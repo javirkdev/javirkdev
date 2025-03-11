@@ -46,9 +46,7 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 
 ###
 
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javirkdev)](https://github.com/javirkdev/github-readme-stats)
 
 ###
 
