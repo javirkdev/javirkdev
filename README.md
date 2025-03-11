@@ -4,8 +4,6 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 
 ---
 
-###
-
 <div align="left">
   <img width="20" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="60" alt="angular logo"  />
