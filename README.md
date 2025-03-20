@@ -31,9 +31,8 @@ Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#*
 ** [Enlace al repositorio: ](https://github.com/manugym/E-commerce) **
 
 **Colaboradores:**
-- **manugym**
-- **albacabsan**
-- **Ancabvil**
+- **[manugym](https://github.com/manugym)**
+- **[albacabsan](https://github.com/albacabsan)**
 
 ### 2. **Pokedex JavaScript Vanilla**
 Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **manugym**.
