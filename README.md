@@ -27,7 +27,7 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 ### 1. **E-commerce Angular y C# ASP.NET**
 Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#** con **ASP.NET** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos con tarjetas de crédito / débito y con Ethereum (criptomoneda).
 
-** [Enlace a la web: ](https://turingclothes.vercel.app/) **
+** [Enlace a la web: ](https://turingclothes.vercel.app/) ** <br>
 ** [Enlace al repositorio: ](https://github.com/manugym/E-commerce) **
 
 **Colaboradores:**
