@@ -37,6 +37,9 @@ Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#*
 ### 2. **Pokedex JavaScript Vanilla**
 Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **manugym**.
 
+** [Enlace a la web: ](https://manugym.github.io/Proyecto_Pokedex/) ** <br>
+** [Enlace al repositorio: ](https://github.com/manugym/Proyecto_Pokedex) **
+
 ---
 
 <div align="center">
