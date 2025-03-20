@@ -35,10 +35,18 @@ Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#*
 - **[albacabsan](https://github.com/albacabsan)**
 
 ### 2. **Pokedex JavaScript Vanilla**
-Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **manugym**.
+Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **[manugym](https://github.com/manugym)**.
 
 ** [Enlace a la web: ](https://manugym.github.io/Proyecto_Pokedex/) ** <br>
 ** [Enlace al repositorio: ](https://github.com/manugym/Proyecto_Pokedex) **
+
+---
+
+### 3. **Hive5**
+Proyecto realizado en la empresa Viewnext junto a mis compañeros becarios.
+Hicimos una WebApp desarrollada en OracleJET, Spring Boot y SOA/OSB que simulaba la aplicación de Trello.
+
+** No hay enlaces para este proyecto debido a temas de privacidad **
 
 ---
 
