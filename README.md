@@ -46,7 +46,15 @@ Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar inf
 Proyecto realizado en la empresa Viewnext junto a mis compañeros becarios.
 Hicimos una WebApp desarrollada en OracleJET, Spring Boot y SOA/OSB que simulaba la aplicación de Trello.
 
-** No hay enlaces para este proyecto debido a temas de privacidad **
+**No hay enlaces para este proyecto debido a temas de privacidad**
+
+---
+
+### 3. **Página personal portafolio**
+Proyecto bastante pequeño que hice en vacaciones para mostrar mis certificados, proyectos, etc.
+
+**[Enlace a la web: ](https://javirkdev.vercel.app/)**
+**[Enlace al repositorio: ](https://github.com/javirkdev/Pagina-Personal)**
 
 ---
 
