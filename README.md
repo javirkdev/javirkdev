@@ -27,8 +27,8 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 ### 1. **E-commerce Angular y C# ASP.NET**
 Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#** con **ASP.NET** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos con tarjetas de crédito / débito y con Ethereum (criptomoneda).
 
-** [Enlace a la web: ](https://turingclothes.vercel.app/) ** <br>
-** [Enlace al repositorio: ](https://github.com/manugym/E-commerce) **
+**[Enlace a la web: ](https://turingclothes.vercel.app/)** <br>
+**[Enlace al repositorio: ](https://github.com/manugym/E-commerce)**
 
 **Colaboradores:**
 - **[manugym](https://github.com/manugym)**
@@ -37,8 +37,8 @@ Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#*
 ### 2. **Pokedex JavaScript Vanilla**
 Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **[manugym](https://github.com/manugym)**.
 
-** [Enlace a la web: ](https://manugym.github.io/Proyecto_Pokedex/) ** <br>
-** [Enlace al repositorio: ](https://github.com/manugym/Proyecto_Pokedex) **
+**[Enlace a la web: ](https://manugym.github.io/Proyecto_Pokedex/)** <br>
+**[Enlace al repositorio: ](https://github.com/manugym/Proyecto_Pokedex)**
 
 ---
 
@@ -50,7 +50,7 @@ Hicimos una WebApp desarrollada en OracleJET, Spring Boot y SOA/OSB que simulaba
 
 ---
 
-### 3. **Página personal portafolio**
+### 4. **Página personal portafolio**
 Proyecto bastante pequeño que hice en vacaciones para mostrar mis certificados, proyectos, etc.
 
 **[Enlace a la web: ](https://javirkdev.vercel.app/)**
