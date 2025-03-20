@@ -53,7 +53,7 @@ Hicimos una WebApp desarrollada en OracleJET, Spring Boot y SOA/OSB que simulaba
 ### 4. **Página personal portafolio**
 Proyecto bastante pequeño que hice en vacaciones para mostrar mis certificados, proyectos, etc.
 
-**[Enlace a la web ](https://javirkdev.vercel.app/)**
+**[Enlace a la web ](https://javirkdev.vercel.app/)** <br>
 **[Enlace al repositorio ](https://github.com/javirkdev/Pagina-Personal)**
 
 ---
