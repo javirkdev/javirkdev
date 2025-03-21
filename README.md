@@ -5,6 +5,7 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 ---
 
 <div align="center">
+  <a href="#"><img src="images/angular-original.svg" /></a>
   <img src="images/angular-original.svg" referrerpolicy="no-referrer" height="60" alt="angular logo"  />
   <img src="images/react.svg" referrerpolicy="no-referrer" height="60" alt="react logo"  />
   <img src="images/kotlin-original.svg" referrerpolicy="no-referrer" height="60" alt="kotlin logo"  />
