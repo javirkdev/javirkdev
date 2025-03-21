@@ -5,7 +5,7 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 ---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" referrerpolicy="no-referrer" height="60" alt="angular logo"  />
+  <img src="images/angular-original.svg" referrerpolicy="no-referrer" height="60" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" referrerpolicy="no-referrer" height="60" alt="react logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" referrerpolicy="no-referrer" height="60" alt="kotlin logo"  />
   <img src="https://www.svgrepo.com/show/373442/asp.svg" referrerpolicy="no-referrer" height="60" alt="asp.net logo"  />
