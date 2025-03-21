@@ -6,18 +6,18 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 
 <div align="center">
   <img src="images/angular-original.svg" referrerpolicy="no-referrer" height="60" alt="angular logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" referrerpolicy="no-referrer" height="60" alt="react logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" referrerpolicy="no-referrer" height="60" alt="kotlin logo"  />
-  <img src="https://www.svgrepo.com/show/373442/asp.svg" referrerpolicy="no-referrer" height="60" alt="asp.net logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" referrerpolicy="no-referrer" height="60" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" referrerpolicy="no-referrer" height="60" alt="csharp logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" referrerpolicy="no-referrer" height="60" alt="java logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" referrerpolicy="no-referrer" height="60" alt="mysql logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" referrerpolicy="no-referrer" height="60" alt="sqlite logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" referrerpolicy="no-referrer" height="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" referrerpolicy="no-referrer" height="60" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" referrerpolicy="no-referrer" height="60" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" referrerpolicy="no-referrer" height="60" alt="css3 logo"  />
+  <img src="images/react.svg" referrerpolicy="no-referrer" height="60" alt="react logo"  />
+  <img src="images/kotlin-original.svg" referrerpolicy="no-referrer" height="60" alt="kotlin logo"  />
+  <img src="images/asp.svg" referrerpolicy="no-referrer" height="60" alt="asp.net logo"  />
+  <img src="images/spring-original.svg" referrerpolicy="no-referrer" height="60" alt="spring logo"  />
+  <img src="images/csharp.svg" referrerpolicy="no-referrer" height="60" alt="csharp logo"  />
+  <img src="images/java-original.svg" referrerpolicy="no-referrer" height="60" alt="java logo"  />
+  <img src="images/mysql-original.svg" referrerpolicy="no-referrer" height="60" alt="mysql logo"  />
+  <img src="images/sqlite-original.svg" referrerpolicy="no-referrer" height="60" alt="sqlite logo"  />
+  <img src="images/js.svg" referrerpolicy="no-referrer" height="60" alt="javascript logo"  />
+  <img src="images/ts.svg" referrerpolicy="no-referrer" height="60" alt="typescript logo"  />
+  <img src="images/html.svg" referrerpolicy="no-referrer" height="60" alt="html5 logo"  />
+  <img src="images/css.svg" referrerpolicy="no-referrer" height="60" alt="css3 logo"  />
 </div>
 
 ---
