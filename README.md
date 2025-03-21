@@ -5,20 +5,19 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 ---
 
 <div align="center">
-  <a href="#"><img src="images/angular-original.svg" /></a>
-  <img src="images/angular-original.svg" referrerpolicy="no-referrer" height="60" alt="angular logo"  />
-  <img src="images/react.svg" referrerpolicy="no-referrer" height="60" alt="react logo"  />
-  <img src="images/kotlin-original.svg" referrerpolicy="no-referrer" height="60" alt="kotlin logo"  />
-  <img src="images/asp.svg" referrerpolicy="no-referrer" height="60" alt="asp.net logo"  />
-  <img src="images/spring-original.svg" referrerpolicy="no-referrer" height="60" alt="spring logo"  />
-  <img src="images/csharp.svg" referrerpolicy="no-referrer" height="60" alt="csharp logo"  />
-  <img src="images/java-original.svg" referrerpolicy="no-referrer" height="60" alt="java logo"  />
-  <img src="images/mysql-original.svg" referrerpolicy="no-referrer" height="60" alt="mysql logo"  />
-  <img src="images/sqlite-original.svg" referrerpolicy="no-referrer" height="60" alt="sqlite logo"  />
-  <img src="images/js.svg" referrerpolicy="no-referrer" height="60" alt="javascript logo"  />
-  <img src="images/ts.svg" referrerpolicy="no-referrer" height="60" alt="typescript logo"  />
-  <img src="images/html.svg" referrerpolicy="no-referrer" height="60" alt="html5 logo"  />
-  <img src="images/css.svg" referrerpolicy="no-referrer" height="60" alt="css3 logo"  />
+  <a href="#"><img src="images/angular-original.svg" referrerpolicy="no-referrer" height="60" alt="angular logo"  /></a>
+  <a href="#"><img src="images/react.svg" referrerpolicy="no-referrer" height="60" alt="react logo"  /></a>
+  <a href="#"><img src="images/kotlin-original.svg" referrerpolicy="no-referrer" height="60" alt="kotlin logo"  /></a>
+  <a href="#"><img src="images/asp.svg" referrerpolicy="no-referrer" height="60" alt="asp.net logo"  /></a>
+  <a href="#"><img src="images/spring-original.svg" referrerpolicy="no-referrer" height="60" alt="spring logo"  /></a>
+  <a href="#"><img src="images/csharp.svg" referrerpolicy="no-referrer" height="60" alt="csharp logo"  /></a>
+  <a href="#"><img src="images/java-original.svg" referrerpolicy="no-referrer" height="60" alt="java logo"  /></a>
+  <a href="#"><img src="images/mysql-original.svg" referrerpolicy="no-referrer" height="60" alt="mysql logo"  /></a>
+  <a href="#"><img src="images/sqlite-original.svg" referrerpolicy="no-referrer" height="60" alt="sqlite logo"  /></a>
+  <a href="#"><img src="images/js.svg" referrerpolicy="no-referrer" height="60" alt="javascript logo"  /></a>
+  <a href="#"><img src="images/ts.svg" referrerpolicy="no-referrer" height="60" alt="typescript logo"  /></a>
+  <a href="#"><img src="images/html.svg" referrerpolicy="no-referrer" height="60" alt="html5 logo"  /></a>
+  <a href="#"><img src="images/css.svg" referrerpolicy="no-referrer" height="60" alt="css3 logo"  /></a>
 </div>
 
 ---
