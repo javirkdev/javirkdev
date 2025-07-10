@@ -24,7 +24,22 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 
 ## 🏆 Proyectos Destacados
 
-### 1. **E-commerce Angular y C# ASP.NET**
+### 1. **Automatización de Restaurantes React Web, React Native y Spring Boot Java**
+Software de automatización para restaurantes, con el objetivo de digitalizar y optimizar los procesos diarios del sector. Implementa funcionalidades clave como reservas, la gestión de pedidos, el control de mesas, la coordinación del personal y la integración con sistemas de pago.
+
+Tecnologías usadas: 
+
+Backend: Spring Boot con Java
+Frontend: React + Vite con JavaScript
+Dispositivos Móviles: React Native + Expo con TypeScript
+
+**[Enlace a la web ](https://fast-fork.vercel.app)** <br>
+**[Enlace al repositorio ](https://github.com/javirkdev/fast-fork)**
+
+**Colaboradores:**
+- **[albacabsan](https://github.com/albacabsan)**
+
+### 2. **E-commerce Angular y C# ASP.NET**
 Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#** con **ASP.NET** en el backend, que incluye funcionalidades como gestión de productos, carrito de compras y procesamiento de pagos con tarjetas de crédito / débito y con Ethereum (criptomoneda).
 
 **[Enlace a la web ](https://turingclothes.vercel.app/)** <br>
@@ -34,7 +49,7 @@ Un proyecto de un E-commerce desarrollado con **Angular** en el frontend y **C#*
 - **[manugym](https://github.com/manugym)**
 - **[albacabsan](https://github.com/albacabsan)**
 
-### 2. **Pokedex JavaScript Vanilla**
+### 3. **Pokedex JavaScript Vanilla**
 Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar información de los Pokémon. Colaboré en este proyecto con **[manugym](https://github.com/manugym)**.
 
 **[Enlace a la web ](https://manugym.github.io/Proyecto_Pokedex/)** <br>
@@ -42,7 +57,7 @@ Una Pokédex creada con **JavaScript puro**, que permite buscar y visualizar inf
 
 ---
 
-### 3. **Hive5**
+### 4. **Hive5**
 Proyecto realizado en la empresa Viewnext junto a mis compañeros becarios.
 Hicimos una WebApp desarrollada en OracleJET, Spring Boot y SOA/OSB que simulaba la aplicación de Trello.
 
@@ -50,7 +65,7 @@ Hicimos una WebApp desarrollada en OracleJET, Spring Boot y SOA/OSB que simulaba
 
 ---
 
-### 4. **Página personal portafolio**
+### 5. **Página personal portafolio**
 Proyecto bastante pequeño que hice en vacaciones para mostrar mis certificados, proyectos, etc.
 
 **[Enlace a la web ](https://javirkdev.vercel.app/)** <br>
