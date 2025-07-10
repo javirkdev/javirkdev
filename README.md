@@ -27,11 +27,11 @@ Desarrollador en formación, actualmente cursando el segundo año de **Desarroll
 ### 1. **Automatización de Restaurantes React Web, React Native y Spring Boot Java**
 Software de automatización para restaurantes, con el objetivo de digitalizar y optimizar los procesos diarios del sector. Implementa funcionalidades clave como reservas, la gestión de pedidos, el control de mesas, la coordinación del personal y la integración con sistemas de pago.
 
-Tecnologías usadas: 
+Tecnologías usadas: <br>
 
-Backend: Spring Boot con Java
-Frontend: React + Vite con JavaScript
-Dispositivos Móviles: React Native + Expo con TypeScript
+Backend: Spring Boot con Java <br>
+Frontend: React + Vite con JavaScript <br>
+Dispositivos Móviles: React Native + Expo con TypeScript <br>
 
 **[Enlace a la web ](https://fast-fork.vercel.app)** <br>
 **[Enlace al repositorio ](https://github.com/javirkdev/fast-fork)**
